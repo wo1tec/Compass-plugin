@@ -1,0 +1,9 @@
+special_compass:
+  display_name: '&aCompass'
+  recipe:
+    - '111'
+    - '121'
+    - '111'
+  ingredients:
+    2: 'DIAMOND'
+    1: 'IRON_INGOT'

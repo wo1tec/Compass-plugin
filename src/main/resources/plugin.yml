@@ -1,0 +1,7 @@
+name: compass
+version: '${project.version}'
+main: org.storm.mc.compass.Compass
+api-version: '1.19'
+authors: [wo1tec]
+description: plugin for Desolate Horizons project
+website: https://desolatehorizon.ru/
