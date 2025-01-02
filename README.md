@@ -1,15 +1,13 @@
-Тестировался только на Paper 1.19.3.
+It was tested only on Paper 1.19.3.
 
-Скачать плагин: [https://github.com/wo1tec/Compass-plugin/releases/tag/Realese]
+[https://github.com/wo1tec/Compass-plugin/releases/tag/Realese](Download)
 
-В плагине реализован кастомный крафт на компас, показывающий корды игрока, после использования компас ломается.
+The plugin implements a custom crafting for the compass, showing the player's cords, after use the compass breaks.
 
-Конфиг:
+config:
 ``` 
 special_compass:
-# Имя предмета
   display_name: '&aCompass'
-# Рецепт. Ничего сложного.
   recipe: 
     - '111'
     - '121'
